@@ -8,8 +8,8 @@ Dans la page **Releases** (colonne de droite) :
 
 | Fichier | Usage |
 | --- | --- |
-| `Tube-Pocket-Setup-0.1.1.exe` | Installeur. Recommandé : l'application démarre ensuite en une seconde. |
-| `Tube-Pocket-Portable-0.1.1.exe` | Sans installation, double-clic. Démarrage plus lent (5 à 7 s). |
+| `Tube-Pocket-Setup-0.1.2.exe` | Installeur. Recommandé : l'application démarre ensuite en une seconde. |
+| `Tube-Pocket-Portable-0.1.2.exe` | Sans installation, double-clic. Démarrage plus lent (5 à 7 s). |
 
 L'exe n'est pas signé : au premier lancement, Windows affiche « Informations supplémentaires → Exécuter quand même ».
 
