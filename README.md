@@ -10,7 +10,7 @@ It was made for the MSI Claw 8 AI+, and it works on any Windows 10 or 11 PC.
 - **Full gamepad control.** Pick a video with the D-pad or the left stick, open it with A, scroll with the right stick. No keyboard or mouse needed.
 - **Ad filtering.** The app filters ads before and during the video and hides ad banners on the page.
 - **SponsorBlock built in.** Sponsor and self-promotion segments are skipped automatically. Only an anonymous fragment of the video ID is sent to the SponsorBlock service.
-- **Ambient light.** A soft glow extends the colours of the video into the page around it. Intensity, blur and spread are adjustable, and it can be turned off.
+- **Ambient light.** A soft glow extends the colours of the video into the page around it. Eight settings: intensity, blur, spread, opacity, colour saturation, brightness, edge thickness and smoothness. It can also be turned off.
 - **Light mode for handhelds.** On a handheld, the app turns off the effects that cost frames: translucent windows, background blurs and rounded video corners.
 - **Quality capped at your screen.** Video quality never exceeds the screen resolution, so a 1200-line screen does not decode 4K.
 - **Downloads.** Save a video as MP4 or its audio as MP3/M4A (uses yt-dlp, installed on demand).
@@ -21,8 +21,8 @@ Open the **Releases** page (right-hand column) and pick one file:
 
 | File | Use |
 | --- | --- |
-| `Tube-Pocket-Setup-0.1.8.exe` | Installer. Recommended: the app then starts in about a second. |
-| `Tube-Pocket-Portable-0.1.8.exe` | No installation, just double-click. Slower to start (5 to 7 seconds). |
+| `Tube-Pocket-Setup-0.1.9.exe` | Installer. Recommended: the app then starts in about a second. |
+| `Tube-Pocket-Portable-0.1.9.exe` | No installation, just double-click. Slower to start (5 to 7 seconds). |
 
 The app is not code-signed, so Windows shows a warning on first launch: click **More info**, then **Run anyway**.
 
